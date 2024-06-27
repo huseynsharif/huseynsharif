@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Goizz. It is multiplayer quiz application.<br>🌱 I’m currently learning Spring boot, React.js.
+🔭 I’m currently working at ARTER ERP company. It is multiplayer quiz application.<br>
 
 
 ## 🌐 Socials:
